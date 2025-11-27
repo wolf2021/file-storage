@@ -1,7 +1,5 @@
 {
-"spider": "./spider.jar",
-"logo": "file:///storage/emulated/0/Pictures/互传/相册/IMG_20250504_223826.jpg",
-  "sites": [
+"sites": [
     {
       "key": "电影天堂网",
       "name": "🐶电影天堂网",
@@ -74,17 +72,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{
-            "key": "厂长",
-            "name": "📔厂长",
-            "type": 3,
-            "api": "csp_CzzyGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "filterable": 1,
-            "timeout": 10
-        }
   ],
   "lives": [
     {
